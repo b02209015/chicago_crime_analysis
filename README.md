@@ -24,6 +24,6 @@
 - Faceting and clustering
 
 ## Visualizations
-<img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/byHoliday.jpg" align="middle">
-<img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/byWeather.jpg" align="middle">
-<img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/heatTypeLoc.jpg" align="middle">
+<img src="https://github.com/b02209015/chicago_crime_analysis/blob/main/byHoliday.jpg" align="middle">
+<img src="https://github.com/b02209015/chicago_crime_analysis/blob/main/byWeather.jpg" align="middle">
+<img src="https://github.com/b02209015/chicago_crime_analysis/blob/main/heatTypeLoc.jpg" align="middle">
