@@ -13,6 +13,10 @@
 - GHCN Daily Climate Data (2010)
   - Source: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
 
+## Plan for Data Analysis
+-	Data Cleaning: To identify null values, outliers, and other data quality issues
+-	Exploratory Data Analysis: To perform statistical analysis on the data in order to better understand the data and generate insights and hypothesis based on the EDAs performed
+
 ## Visualizations
 <img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/byHoliday.jpg" align="middle">
 <img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/byWeather.jpg" align="middle">
