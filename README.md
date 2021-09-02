@@ -16,6 +16,9 @@
 ## Plan for Data Analysis
 -	Data Cleaning: To identify null values, outliers, and other data quality issues
 -	Exploratory Data Analysis: To perform statistical analysis on the data in order to better understand the data and generate insights and hypothesis based on the EDAs performed
+### Data Cleaning Process
+- Transform data types
+- Trim and collapse white spaces
 
 ## Visualizations
 <img src="https://github.com/b02209015/chicago_crime_analysis/blob/master/byHoliday.jpg" align="middle">
